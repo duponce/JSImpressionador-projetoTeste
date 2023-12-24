@@ -11,3 +11,5 @@ Repositorio criado no JS da Hashtag
 Até que enfim!
 
 Última vez! Prometo!
+
+Mais uma atualização!

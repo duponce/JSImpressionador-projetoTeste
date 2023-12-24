@@ -1,4 +1,4 @@
 export const turbologger = (message, textColor = "blue") => {
   const textStyle = `color: ${textColor}`;
-  console.log(`%${message}`, textStyle);
+  console.log(`%c${message}`, textStyle);
 };
